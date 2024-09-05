@@ -16,13 +16,13 @@
     font-size: 14px;
     padding: 10px 20px;
     color: #454545;
-    border: 1px solid tomato;
+    border: 1px solid #bdcc5cff;
 }
 .my-orders-order img{
     width: 50px;
 }
 .my-orders-order p span{
-    color: tomato;
+    color: #bdcc5cff;
 }
 .my-orders-order p b{
     font-weight: 500;

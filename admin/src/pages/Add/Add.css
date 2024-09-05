@@ -37,13 +37,13 @@
 
 .add-btn{
     max-width: 120px;
-    border-color: tomato;
+    border-color: #bdcc5cff;
     padding: 10px;
     background-color: white;
     color: black;
     cursor: pointer;
 }
 .add-btn:hover{
-background: tomato;
+background: #bdcc5cff;
 transition: 1.5s;
 }
